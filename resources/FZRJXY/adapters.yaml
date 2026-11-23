@@ -1,0 +1,8 @@
+adapters:
+  - adapter_id: "FZRJXY_01"
+    adapter_name: "福州软件职业技术学院"
+    category: "BACHELOR_AND_ASSOCIATE"
+    asset_js_path: "fzrjxy_01.js"
+    import_url: "https://jw.fzrjxy.com/studentportal.php/"
+    maintainer: "Lucas"
+    description: "智慧校园信息平台(学生版)：登录后点击执行导入，自动读取全部周次课表"

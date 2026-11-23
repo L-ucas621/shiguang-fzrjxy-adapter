@@ -1,0 +1,5 @@
+schools:
+  - id: "FZRJXY"
+    name: "福州软件职业技术学院"
+    initial: "F"
+    resource_folder: "FZRJXY"
